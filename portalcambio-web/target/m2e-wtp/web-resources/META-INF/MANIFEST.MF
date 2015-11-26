@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: portalcambio Web module
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rcintra
+Specification-Title: portalcambio Web module
+Implementation-Vendor-Id: br.ccb.com
+Build-Jdk: 1.8.0_40
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+

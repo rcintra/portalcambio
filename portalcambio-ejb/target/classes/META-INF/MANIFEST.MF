@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: rcintra
+Build-Jdk: 1.8.0_40
+Specification-Title: portalcambio EJB module
+Specification-Version: 0.0.1-SNAPSHOT
+Implementation-Title: portalcambio EJB module
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.ccb.com
+Created-By: Maven Integration for Eclipse
+
