@@ -7,4 +7,4 @@ https://github.com/open-archetypes/multi-javaee6-archetype
 
 https://dont-panic.eu/blogs/2012/apr/setup-mullti-module-maven-project-minutes
 
-
+http://www.andygibson.net/
